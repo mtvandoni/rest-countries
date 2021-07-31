@@ -8,7 +8,7 @@ export const Navbar = ({}) => {
 		<div>
 			<ul>
 				<li><a style={{fontWeight: '800', fontSize: '18px'}}>Where in the world?</a></li>
-        <li style={{float: 'right'}}><a><FontAwesomeIcon icon={faMoon} /> Dark Mode</a></li>
+        		<li style={{float: 'right'}}><a><FontAwesomeIcon icon={faMoon} /> Dark Mode</a></li>
 			</ul>
 		</div>
 	);

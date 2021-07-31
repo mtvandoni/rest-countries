@@ -1,0 +1,26 @@
+.icon-input {
+  height: 3em;
+  border-radius: 0.3em;
+  width: 25em;
+  background-color: hsl(209, 23%, 22%);
+}
+
+.icon-input i {
+  position: absolute;
+  color: white;
+  left: 1em;
+  padding: 1em 0em 0em 1em;
+}
+
+.icon-input input {
+  border: none;
+  background-color: hsl(209, 23%, 22%);
+  padding: 1em 0em 1em 0em;
+  margin-left: 5em;
+  margin-top: 0.4em;
+  width: 82%;
+}
+
+.icon-input input::placeholder {
+  color: white;
+}
